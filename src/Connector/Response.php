@@ -1,6 +1,6 @@
 <?php
 
-namespace NitroLab\ShellsmartAPI\Connector;
+namespace NitroLab\ShellsmartApi\Connector;
 
 class Response
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace NitroLab\ShellsmartAPI;
+namespace NitroLab\ShellsmartApi;
 
-use NitroLab\ShellsmartAPI\Exceptions\CardNotFoundException;
-use NitroLab\ShellsmartAPI\Exceptions\NeedRegisterException;
-use NitroLab\ShellsmartAPI\Connector\Connector;
-use NitroLab\ShellsmartAPI\Connector\Response;
+use NitroLab\ShellsmartApi\Exceptions\CardNotFoundException;
+use NitroLab\ShellsmartApi\Exceptions\NeedRegisterException;
+use NitroLab\ShellsmartApi\Connector\Connector;
+use NitroLab\ShellsmartApi\Connector\Response;
 
 class Api
 {

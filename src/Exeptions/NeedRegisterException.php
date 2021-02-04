@@ -1,6 +1,6 @@
 <?php
 
-namespace NitroLab\ShellsmartAPI\Exceptions;
+namespace NitroLab\ShellsmartApi\Exceptions;
 
 use Exception;
 

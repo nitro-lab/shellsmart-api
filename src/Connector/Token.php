@@ -1,8 +1,8 @@
 <?php
 
-namespace NitroLab\ShellsmartAPI\Connector;
+namespace NitroLab\ShellsmartApi\Connector;
 
-use NitroLab\ShellsmartAPI\Exceptions\TokenException;
+use NitroLab\ShellsmartApi\Exceptions\TokenException;
 
 
 class Token extends Request

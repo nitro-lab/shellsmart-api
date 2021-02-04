@@ -18,7 +18,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "NitroLab\\ShellsmartAPI\\ShellsmartAPIServiceProvider"
+                "NitroLab\\ShellsmartApi\\ShellsmartApiServiceProvider"
             ]
         }
     },

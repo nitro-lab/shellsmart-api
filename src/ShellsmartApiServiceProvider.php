@@ -1,13 +1,13 @@
 <?php
 
-namespace NitroLab\ShellsmartAPI;
+namespace NitroLab\ShellsmartApi;
 
-use NitroLab\ShellsmartAPI\Connector\Connector;
-use NitroLab\ShellsmartAPI\Connector\Token;
+use NitroLab\ShellsmartApi\Connector\Connector;
+use NitroLab\ShellsmartApi\Connector\Token;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Contracts\Support\DeferrableProvider;
 
-class CrmApiServiceProvider extends ServiceProvider implements DeferrableProvider
+class ShellsmartApiServiceProvider extends ServiceProvider implements DeferrableProvider
 {
     /**
      * Register services.

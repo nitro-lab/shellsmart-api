@@ -4,4 +4,4 @@
 
 ### Installation
 
-    composer require nitro-lab/multilanguage-admin
+    composer require nitro-lab/shellsmart-api
